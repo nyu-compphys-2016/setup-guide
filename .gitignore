@@ -1,0 +1,7 @@
+setup.pdf
+
+*.gz
+*.aux
+*.log
+
+
